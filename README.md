@@ -1,95 +1,98 @@
-# 👨‍💼 Employee Management System
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750100-b26a7f38-42ef-4b07-a45e-3a2746e08199.gif" width="100%">
+</p>
 
-A web-based **Employee Management System** developed using **Python, Streamlit, SQLite, and Pandas** to efficiently manage employee records. The application provides secure authentication, employee CRUD operations, department-wise reports, and salary analytics through an intuitive user interface.
+<h1 align="center">👨‍💼 Employee Management System</h1>
+
+<p align="center">
+A modern Employee Management System built using <b>Python</b>, <b>Streamlit</b>, and <b>SQLite</b> to efficiently manage employee records with a clean and interactive dashboard.
+</p>
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
+</p>
 
 ---
 
-## 📌 Features
+# 📌 Project Overview
 
-- 🔐 Admin Login Authentication
+The **Employee Management System** is a web application developed using **Python**, **Streamlit**, and **SQLite** that enables administrators to manage employee records efficiently. The application provides a simple, responsive interface for performing complete employee management operations.
+
+---
+
+# ✨ Features
+
+- 🔐 Secure Admin Login
+- 📊 Interactive Dashboard
 - ➕ Add New Employee
 - 👀 View Employee Records
 - 🔍 Search Employees
 - ✏️ Update Employee Details
-- 🗑️ Delete Employee Records
-- 📊 Dashboard with Employee Statistics
-- 📈 Department-wise Reports
-- 💰 Salary Analytics
-- 📋 Interactive Data Tables
+- 🗑️ Delete Employees
+- 📈 Department-wise Report
+- 📥 Export Employee Data to CSV
+- 🌙 Modern Dark Theme UI
 
 ---
 
-## 🛠️ Technologies Used
+# 🛠️ Tech Stack
 
-- Python
-- Streamlit
-- SQLite
-- Pandas
-- SQL
-- Git
-- GitHub
+| Technology | Purpose |
+|------------|----------|
+| Python | Backend Logic |
+| Streamlit | Web Interface |
+| SQLite | Database |
+| Pandas | Data Processing |
 
 ---
 
-## 📂 Project Structure
+# 📂 Project Structure
 
-```
+```text
 employee-management-system/
+│
+├── assets/
+├── database/
+├── screenshots/
 │
 ├── app.py
 ├── auth.py
 ├── database.py
 ├── employee.py
-├── reports.py
 ├── export.py
+├── reports.py
 ├── requirements.txt
-├── README.md
-│
-├── database/
-│   └── employee.db
-│
-├── assets/
-│
-└── screenshots/
+└── README.md
 ```
 
 ---
 
-## 🚀 Installation
+# 🚀 Installation
 
-### 1️⃣ Clone the Repository
+### Clone Repository
 
 ```bash
-git clone https://github.com/chaitanyasonga729-maker/employee-management-system.git
+git clone https://github.com/yourusername/employee-management-system.git
 ```
 
-### 2️⃣ Navigate to the Project Folder
+### Move into Project
 
 ```bash
 cd employee-management-system
 ```
 
-### 3️⃣ Create a Virtual Environment
-
-```bash
-python -m venv venv
-```
-
-### 4️⃣ Activate the Virtual Environment
-
-**Windows**
-
-```bash
-venv\Scripts\activate
-```
-
-### 5️⃣ Install Dependencies
+### Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 6️⃣ Run the Application
+### Run Application
 
 ```bash
 streamlit run app.py
@@ -97,64 +100,95 @@ streamlit run app.py
 
 ---
 
-## 🔑 Default Login Credentials
+# 📸 Application Screenshots
 
-| Username | Password |
-|----------|----------|
-| admin | admin123 |
+## 🔐 Login Page
 
----
-
-## 📷 Application Screenshots
-
-Add screenshots of the following pages inside the `screenshots` folder:
-
-- Login Page
-- Dashboard
-- Add Employee
-- View Employees
-- Search Employee
-- Update Employee
-- Department Report
+![](screenshots/Screenshot%202026-07-18%20135901(1).png)
 
 ---
 
-## 📈 Future Enhancements
+## 📊 Dashboard
 
-- PostgreSQL Integration
-- Password Encryption (bcrypt)
-- Export Reports to CSV & PDF
-- Employee Profile Images
-- Attendance Management
-- Leave Management
-- Role-Based Access Control
-- Interactive Charts & Analytics
+![](screenshots/Screenshot%202026-07-18%20135918(1).png)
+
+---
+
+## 📋 Navigation Menu
+
+![](screenshots/Screenshot%202026-07-18%20135927(1).png)
+
+---
+
+## ➕ Add Employee
+
+![](screenshots/Screenshot%202026-07-18%20135940(1).png)
+
+---
+
+## 👀 View Employees
+
+![](screenshots/Screenshot%202026-07-18%20135950(1).png)
+
+---
+
+## 🔍 Search Employee
+
+![](screenshots/Screenshot%202026-07-18%20140006(1).png)
+
+---
+
+## ✏️ Update Employee
+
+![](screenshots/Screenshot%202026-07-18%20140022(1).png)
+
+---
+
+## 🗑️ Delete Employee
+
+![](screenshots/Screenshot%202026-07-18%20140036(1).png)
+
+---
+
+## 📈 Department Report
+
+![](screenshots/Screenshot%202026-07-18%20140052(1).png)
+
+---
+
+## 💻 Project Structure in VS Code
+
+![](screenshots/Screenshot%202026-07-18%20140114(1).png)
+
+---
+
+# 🎯 Resume Highlights
+
+- Developed a complete Employee Management System using Python, Streamlit, and SQLite.
+- Implemented CRUD operations, secure authentication, employee search, reporting, and CSV export.
+- Designed an interactive dashboard with responsive UI and department-wise analytics.
+
+---
+
+# 🔮 Future Improvements
+
 - Email Notifications
+- PDF Report Export
+- Role-Based Authentication
+- Employee Profile Images
+- Cloud Database Integration
+- Deployment on Streamlit Cloud
 
 ---
 
-## 🎯 Learning Outcomes
-
-Through this project, I gained hands-on experience in:
-
-- Python Application Development
-- CRUD Operations
-- SQLite Database Management
-- Streamlit Web Application Development
-- SQL Queries
-- Modular Programming
-- Git & GitHub Version Control
-
----
-
-## 👨‍💻 Author
+# 👨‍💻 Author
 
 **Chaitanya Joel**
 
-GitHub: https://github.com/chaitanyasonga729-maker
+Final Year B.Tech Student
+
+Python | SQL | Data Engineering | Streamlit
 
 ---
 
-## ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
+## ⭐ If you found this project helpful, don't forget to Star this repository!
