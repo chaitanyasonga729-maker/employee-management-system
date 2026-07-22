@@ -104,61 +104,62 @@ streamlit run app.py
 
 ## 🔐 Login Page
 
-![](screenshots/Screenshot%202026-07-18%20135901(1).png)
+<img width="1817" height="1073" alt="Screenshot 2026-07-18 135901" src="https://github.com/user-attachments/assets/9bc5f6e3-9aa7-4153-b402-15c790abf68f" />
+
 
 ---
 
 ## 📊 Dashboard
 
-![](screenshots/Screenshot%202026-07-18%20135918(1).png)
+<img width="1820" height="752" alt="Screenshot 2026-07-18 135918" src="https://github.com/user-attachments/assets/3bcc5a3a-5f21-4909-8564-39a401b54ad2" />
 
 ---
 
 ## 📋 Navigation Menu
 
-![](screenshots/Screenshot%202026-07-18%20135927(1).png)
+<img width="1288" height="1006" alt="Screenshot 2026-07-18 135927" src="https://github.com/user-attachments/assets/8cf805c1-a03d-4eda-93a1-bb66c558b1a0" />
 
 ---
 
 ## ➕ Add Employee
 
-![](screenshots/Screenshot%202026-07-18%20135940(1).png)
+<img width="1812" height="1033" alt="Screenshot 2026-07-18 135940" src="https://github.com/user-attachments/assets/e8d13d21-c441-4de1-adb1-c5154d74ebd1" />
 
 ---
 
 ## 👀 View Employees
 
-![](screenshots/Screenshot%202026-07-18%20135950(1).png)
+<img width="1378" height="1061" alt="Screenshot 2026-07-18 135950" src="https://github.com/user-attachments/assets/db60444b-b429-4d9b-9d8d-9b7ab4ac82f3" />
 
 ---
 
 ## 🔍 Search Employee
 
-![](screenshots/Screenshot%202026-07-18%20140006(1).png)
+<img width="1778" height="912" alt="Screenshot 2026-07-18 140006" src="https://github.com/user-attachments/assets/9de350a7-a2df-42c0-88c4-c0d88406dc21" />
 
 ---
 
 ## ✏️ Update Employee
 
-![](screenshots/Screenshot%202026-07-18%20140022(1).png)
+<img width="1820" height="886" alt="Screenshot 2026-07-18 140022" src="https://github.com/user-attachments/assets/dcc79d0d-98ae-40f0-8339-a5e4e89a4764" />
 
 ---
 
 ## 🗑️ Delete Employee
 
-![](screenshots/Screenshot%202026-07-18%20140036(1).png)
+<img width="1832" height="927" alt="Screenshot 2026-07-18 140036" src="https://github.com/user-attachments/assets/0326351e-eb49-4815-baac-935e57abc9ac" />
 
 ---
 
 ## 📈 Department Report
 
-![](screenshots/Screenshot%202026-07-18%20140052(1).png)
+<img width="1742" height="907" alt="Screenshot 2026-07-18 140052" src="https://github.com/user-attachments/assets/5946dea4-63f7-4986-956c-147011db5fed" />
 
 ---
 
 ## 💻 Project Structure in VS Code
 
-![](screenshots/Screenshot%202026-07-18%20140114(1).png)
+<img width="1857" height="987" alt="Screenshot 2026-07-18 140114" src="https://github.com/user-attachments/assets/e8611b2f-5440-49f6-afe2-1bf73c5ab0c7" />
 
 ---
 
@@ -183,7 +184,7 @@ streamlit run app.py
 
 # 👨‍💻 Author
 
-**Chaitanya Joel**
+**Chaitanya Songa**
 
 Final Year B.Tech Student
 
